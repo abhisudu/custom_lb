@@ -1,0 +1,5 @@
+0x1bc28ff7	mdma_init	/home/mythic/custom_lb/mythic_mdma	EXPORT_SYMBOL
+0x911198ab	mythic_set_desc	/home/mythic/custom_lb/newpcie	EXPORT_SYMBOL
+0x0901bb74	test_check	/home/mythic/custom_lb/newpcie	EXPORT_SYMBOL
+0x6d670690	mythic_dev_read	/home/mythic/custom_lb/newpcie	EXPORT_SYMBOL
+0x439f5c6a	mythic_dev_write	/home/mythic/custom_lb/newpcie	EXPORT_SYMBOL

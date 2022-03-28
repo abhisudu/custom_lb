@@ -1,0 +1,3 @@
+kernel//home/mythic/custom_lb/newpcie.ko
+kernel//home/mythic/custom_lb/mythic_mdma.ko
+kernel//home/mythic/custom_lb/custom_lb.ko

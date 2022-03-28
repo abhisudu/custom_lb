@@ -1,0 +1,1 @@
+cmd_/home/mythic/custom_lb/newpcie.ko := ld -EL -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds --build-id  -o /home/mythic/custom_lb/newpcie.ko /home/mythic/custom_lb/newpcie.o /home/mythic/custom_lb/newpcie.mod.o ;  true

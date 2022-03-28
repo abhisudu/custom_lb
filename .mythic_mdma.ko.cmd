@@ -1,0 +1,1 @@
+cmd_/home/mythic/custom_lb/mythic_mdma.ko := ld -EL -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds --build-id  -o /home/mythic/custom_lb/mythic_mdma.ko /home/mythic/custom_lb/mythic_mdma.o /home/mythic/custom_lb/mythic_mdma.mod.o ;  true
